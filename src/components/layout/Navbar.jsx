@@ -21,6 +21,9 @@ export default function Navbar() {
           <a href="#estilos" className="hover:opacity-80 transition">
             Estilos
           </a>
+          <a href="#galeria" className="hover:opacity-80 transition">
+            Galeria
+          </a>
           <a href="#contacto" className="hover:opacity-80 transition">
             Contacto
           </a>

@@ -6,7 +6,7 @@ const text = {
 
 export default function Footer() {
   return (
-    <footer className="text-white flex flex-col items-center justify-center gap-8 px-6 py-16">
+    <footer className="text-white flex flex-col items-center justify-center gap-8 px-6 py-16" id="contacto">
       <a href="#hero" className="hover:opacity-80 transition-opacity">
         <img src="./assets/logowhite.png" alt="Bailas Logo" className="w-32 sm:w-40" />
       </a>
