@@ -1,0 +1,41 @@
+{
+  "name": "bailas-website",
+  "version": "1.0.0",
+  "description": "Website for Bailas Dance Studio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherubinifranco/bailas-website.git"
+  },
+  "author": "Cherubini Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherubinifranco/bailas-website/issues"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router": "^7.9.6",
+    "react-router-dom": "^7.9.6",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
