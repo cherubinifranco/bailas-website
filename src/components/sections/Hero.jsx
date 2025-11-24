@@ -6,6 +6,8 @@ const text = {
   cta: "Quiero Empezar",
 };
 
+const wspLink = `https://wa.me/3424360855?text=Hola, buenos días 🙌🏻%0AQuería consultar por el estudio Bailas`
+
 export default function Hero() {
   return (
     <main
@@ -27,7 +29,7 @@ export default function Hero() {
       </h2>
 
       <div className="text-black mt-4">
-        <Button text={text.cta} url="#estilos" />
+        <Button text={text.cta} url={wspLink} external={true} />
       </div>
     </main>
   );
