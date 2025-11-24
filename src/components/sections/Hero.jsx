@@ -6,7 +6,7 @@ const text = {
   cta: "Quiero Empezar",
 };
 
-const wspLink = `https://wa.me/3424360855?text=Hola, buenos días 🙌🏻%0AQuería consultar por el estudio Bailas`
+const wspLink = `https://wa.me/3424360855?text=Hola 🙌🏻%0AQuería consultar por el estudio Bailas`
 
 export default function Hero() {
   return (
