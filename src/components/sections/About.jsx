@@ -12,11 +12,11 @@ export default function About() {
 
         <div className="flex flex-col gap-10">
           <div>
-            <h1 className="strike text-4xl">ESTUDIO DE BAILE</h1>
-            <h1 className="strike text-4xl">Danzas Urbanas para Todos</h1>
+            <h1 className="strike text-4xl text-center">ESTUDIO DE BAILE</h1>
+            <h1 className="strike text-4xl text-center">Danzas Urbanas para Todos</h1>
           </div>
 
-          <p className="max-w-[45ch]">En nuestras clases vas a moverte, aprender y pasarla súper bien...</p>
+          <p className="max-w-[45ch] px-6">En nuestras clases vas a moverte, aprender y pasarla súper bien...</p>
 
           <div className="flex flex-row justify-around">
             <div className="bg-accent p-4 rounded-lg text-center">
